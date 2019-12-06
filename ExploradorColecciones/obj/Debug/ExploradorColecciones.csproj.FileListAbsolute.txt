@@ -1,0 +1,10 @@
+C:\Users\Cesar Acosta\source\repos\ExploradorColecciones\ExploradorColecciones\bin\Debug\ExploradorColecciones.exe.config
+C:\Users\Cesar Acosta\source\repos\ExploradorColecciones\ExploradorColecciones\bin\Debug\ExploradorColecciones.exe
+C:\Users\Cesar Acosta\source\repos\ExploradorColecciones\ExploradorColecciones\bin\Debug\ExploradorColecciones.pdb
+C:\Users\Cesar Acosta\source\repos\ExploradorColecciones\ExploradorColecciones\obj\Debug\ExploradorColecciones.csprojAssemblyReference.cache
+C:\Users\Cesar Acosta\source\repos\ExploradorColecciones\ExploradorColecciones\obj\Debug\ExploradorColecciones.Form1.resources
+C:\Users\Cesar Acosta\source\repos\ExploradorColecciones\ExploradorColecciones\obj\Debug\ExploradorColecciones.Properties.Resources.resources
+C:\Users\Cesar Acosta\source\repos\ExploradorColecciones\ExploradorColecciones\obj\Debug\ExploradorColecciones.csproj.GenerateResource.cache
+C:\Users\Cesar Acosta\source\repos\ExploradorColecciones\ExploradorColecciones\obj\Debug\ExploradorColecciones.csproj.CoreCompileInputs.cache
+C:\Users\Cesar Acosta\source\repos\ExploradorColecciones\ExploradorColecciones\obj\Debug\ExploradorColecciones.exe
+C:\Users\Cesar Acosta\source\repos\ExploradorColecciones\ExploradorColecciones\obj\Debug\ExploradorColecciones.pdb
